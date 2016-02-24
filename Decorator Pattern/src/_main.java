@@ -55,7 +55,5 @@ public class _main {
 		component.f();
 		System.out.println("Github新加一行");
 		System.out.println("Github新加一行");
-		System.out.println("Github新加一行");
-		System.out.println("Github新加一行");
 	}
 }
