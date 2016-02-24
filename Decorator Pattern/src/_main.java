@@ -54,6 +54,6 @@ public class _main {
 		component=new ConcreteDecoratorA(component);//这时候,最左边的component存储了上一个版本的component
 		component.f();
 		System.out.println("Github新加一行");
-		System.out.println("Github新加一行");
+		System.out.println("Github修改一行");
 	}
 }
